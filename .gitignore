@@ -1,0 +1,10 @@
+# Ignore virtual environments
+venv/
+*.pyc
+__pycache__/
+*.pkl
+
+# Ignore large files and temporary files
+*.dll
+*.log
+*.tmp

@@ -50,6 +50,15 @@ This repository contains multiple projects developed for machine learning and so
   - `archive/`: Scripts for preprocessing, training, and evaluation.
   - `models/`: Contains trained logistic regression and random forest models.
   - `results/`: Stores outputs like ROC curves and confusion matrices.
+ ### 3. Handwritten Text Generation
+Folder: handwritten_text_generation/Folder: (./handwritten_text_generation)
+Description: This project uses deep learning techniques like CNNs and RNNs to generate handwritten text from input data.
+Structure:
+
+data/: Contains raw and processed datasets.
+src/: Source code for model training, evaluation, and utilities.
+results/: Outputs like logs and model checkpoints.
+notebooks/: Jupyter notebooks for exploratory data analysis and model training.
 
 CODSOFT/
 │

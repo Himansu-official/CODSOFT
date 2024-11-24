@@ -26,6 +26,61 @@ This project provides an API for predicting customer churn based on various inpu
   
 ## Setup Instructions
 
+# CODSOFT Projects Repository
+
+This repository contains multiple projects developed for machine learning and software development purposes.
+
+---
+
+## Projects
+
+### 1. **Customer Churn Prediction**
+- **Folder**: [`customer_churn_prediction/`](./customer_churn_prediction)
+- **Description**: A machine learning project focused on predicting customer churn based on historical data.
+- **Structure**:
+  - `data/`: Contains datasets used for training and testing.
+  - `models/`: Stores the trained machine learning models.
+  - `results/`: Includes visualizations like confusion matrices and feature importance plots.
+  - `notebooks/`: Jupyter notebooks for data exploration and model training.
+
+### 2. **Credit Card Fraud Detection**
+- **Folder**: [`credit_card_fraud_detection/`](./credit_card_fraud_detection)
+- **Description**: A project to detect fraudulent credit card transactions using supervised learning techniques.
+- **Structure**:
+  - `archive/`: Scripts for preprocessing, training, and evaluation.
+  - `models/`: Contains trained logistic regression and random forest models.
+  - `results/`: Stores outputs like ROC curves and confusion matrices.
+
+---
+
+## How to Use This Repository
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Himansu-official/CODSOFT.git
+
+
+CODSOFT/
+│
+├── customer_churn_prediction/
+│   ├── data/
+│   ├── models/
+│   ├── results/
+│   ├── notebooks/
+│   └── README.md
+│
+├── credit_card_fraud_detection/
+│   ├── archive/
+│   ├── models/
+│   ├── results/
+│   ├── venv/
+│   └── README.md
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 

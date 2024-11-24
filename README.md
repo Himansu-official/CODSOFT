@@ -32,9 +32,10 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any questions, suggestions, or collaboration opportunities, feel free to reach out:
 
-- **Email**: [himanshuofficial987@gmail.com](mailto:himanshuofficial987@gmail.com)
-- **LinkedIn**: [Himanshu Sahoo Profile](https://www.linkedin.com/in/himansuprofile/)
-- **GitHub**: [Himansu-official](https://github.com/Himansu-official)
+- 📧 **Email**: [himanshuofficial987@gmail.com](mailto:himanshuofficial987@gmail.com)
+- 🔗 **LinkedIn**: [Himanshu Sahoo Profile](https://www.linkedin.com/in/himanshuprofile/)
+- 🐙 **GitHub**: [Himansu-official](https://github.com/Himansu-official)
+
 
 ### Clone the Repository
 ```bash

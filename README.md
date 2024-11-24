@@ -51,15 +51,6 @@ This repository contains multiple projects developed for machine learning and so
   - `models/`: Contains trained logistic regression and random forest models.
   - `results/`: Stores outputs like ROC curves and confusion matrices.
 
----
-
-## How to Use This Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Himansu-official/CODSOFT.git
-
-
 CODSOFT/
 │
 ├── customer_churn_prediction/
@@ -80,7 +71,14 @@ CODSOFT/
 ├── README.md
 └── requirements.txt
 
+---
 
+## How to Use This Repository
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Himansu-official/CODSOFT.git
+   
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
